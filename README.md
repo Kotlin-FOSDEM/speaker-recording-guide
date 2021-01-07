@@ -14,6 +14,8 @@ Thanks for taking the time to participate at the Kotlin DevRoom @ FOSDEM 2021.
 - [How to live Q&A](#how-to-live-qa)
   - [Question: is this approach for both Formal & Informal Q&A?](#question-is-this-approach-for-both-formal--informal-qa)
 - [Glossary](#glossary)
+- [Contact Us](#contact-us)
+- [Acknowledgment](#acknowledgment)
 
 ## Where is my talk?
 
@@ -114,10 +116,14 @@ The working assumption is yes, but we will add more details once they are known.
 
 `Moderators`, `Hosts`, `Devroom mods`, `Speaker Hosts`: basically somebody from the devroom team or volunteers that would help set up calls, and also help organize the live Formal Q&A chatrooms and video feeds.
 
-### Contact us
+## Contact us
 
 Make sure you join the [#fosdem](https://kotlinlang.slack.com/archives/CNL8G48LA) on the KotlinLang Slack. You can get an [invite here](https://surveys.jetbrains.com/s3/kotlin-slack-sign-up?_ga=2.95459420.1713471603.1609964350-2073091625.1579276168).
 
 - [Nicola Corti](https://github.com/cortinico)
 - [Martin Bonnin](https://github.com/martinbonnin)
 
+## Acknowledgment
+
+- The Emulator DevRoom where this guide [was forked from](https://github.com/blackbeard334/fosdem21-emulator-devroom-cfp).
+- The Collab DevRoom for creating the [video tutorial](https://peertube.xwiki.com/videos/watch/c5cf50e3-2277-440a-b339-34874acd00b3) we linked.
