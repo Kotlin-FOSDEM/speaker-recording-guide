@@ -78,7 +78,9 @@ media container: mp4
 
 This [video tutorial](https://peertube.xwiki.com/videos/watch/c5cf50e3-2277-440a-b339-34874acd00b3) will show you how to setup OBS to **meet those requirements**.
 
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://peertube.xwiki.com/videos/embed/c5cf50e3-2277-440a-b339-34874acd00b3" frameborder="0" allowfullscreen></iframe>
+<p align="center">
+  <a href="https://peertube.xwiki.com/videos/watch/c5cf50e3-2277-440a-b339-34874acd00b3"><img src="./asset/tutorial-screenshot.png" width="40%"></a>
+</p>
 
 ### Recording deadline
 
