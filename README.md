@@ -61,7 +61,7 @@ There are currently 2 ways to record the talks:
 
 Your video should adhere to the following technical requirements provided by FOSDEM: [FOSDEM/video/wiki/FOSDEM-2021-video-email-to-speakers](https://github.com/FOSDEM/video/wiki/FOSDEM-2021-video-email-to-speakers).
 
-```groovy
+```
 resolution: 1280x720
 frame rate: 25 fps
 video codec: h264 video codec, main profile
