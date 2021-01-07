@@ -50,11 +50,7 @@ This means:
 - at 12:30 the speaker & audience will get a chance to switch to a different channel to continue the discussion(**Informal Q&A**), before the next pre-recorded video will start playing
 
 ## How to pre-record your talk
-    sources:
-    - https://github.com/FOSDEM/video/wiki/FOSDEM-2021-video-email-to-speakers
-    - https://lists.fosdem.org/private/devroom-managers/2021-January/002214.html
-    - https://otl.du.edu/knowledgebase/using-zoom-to-record-a-video-presentation/
-    - https://lists.fosdem.org/private/devroom-managers/2021-January/002239.html <-- thanks Collab devroom!
+
 There are currently 2 ways to record the talks:
 
 - Record by yourself (**recommended**) - meaning you as speaker are free to choose whatever software or green screen or what not to make the talk as fancy as possible.
