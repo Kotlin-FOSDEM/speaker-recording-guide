@@ -10,6 +10,7 @@ Thanks for taking the time to participate at the Kotlin DevRoom @ FOSDEM 2021.
   - [Example](#example)
 - [How to pre-record your talk](#how-to-pre-record-your-talk)
   - [Recording deadline](#recording-deadline)
+  - [Question: is my video going to be framed?](#question-is-my-video-going-to-be-framed)
 - [How to upload the video?](#how-to-upload-the-video)
 - [How to live Q&A](#how-to-live-qa)
   - [Question: is this approach for both Formal & Informal Q&A?](#question-is-this-approach-for-both-formal--informal-qa)
@@ -86,6 +87,10 @@ We haven't heard about the official deadline yet, but for the time being **Janua
 
 Please make sure that a first version of your talk is uploaded by that time. This will give us time to review and eventually run a second shoot if needed.
 
+### Question: is my video going to be framed?
+
+Speakers asked if the video is going to be recomposed with a FOSDEM specific frame or an overlay logo. The answer is: **no**, the video will be shown as it is. However intro slide(s) may be shown before/after the submitted video.  
+
 ## How to upload the video?
 
 Visit [penta.fosdem.org/submission](http://penta.fosdem.org/submission) and login with your pentabarf account. Click on "Events" on the navigation bar and open your event.
@@ -108,7 +113,7 @@ What you will need is:
 - Matrix account & client - for more info see https://matrix.org/blog/2021/01/04/taking-fosdem-online-via-matrix
 - Jitsi - They have some native clients, but [the web client](https://meet.jit.si/) works just fine.
 
-#### Question: is this approach for both Formal & Informal Q&A?
+### Question: is this approach for both Formal & Informal Q&A?
 
 The working assumption is yes, but we will add more details once they are known.
 
