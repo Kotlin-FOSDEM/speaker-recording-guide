@@ -1,9 +1,9 @@
 # Kotlin DevRoom @ FOSDEM 21 - Speakers Recording Guide
 
+> Please note that we're working on the 2022 Guide. We will update this document as soon as we will have further information.
+
 Hey all,
 Thanks for taking the time to participate at the Kotlin DevRoom @ FOSDEM 2021.
-
-> Please note that this is a working document. We're still getting information from FOSDEM and we will update this file with the latest information available.
 
 - [Where is my talk?](#where-is-my-talk)
 - [How long is my talk?](#how-long-is-my-talk)
