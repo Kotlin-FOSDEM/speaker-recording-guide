@@ -57,7 +57,7 @@ This means:
 There are currently 2 ways to record the talks:
 
 - Record by yourself (**recommended**) - meaning you as speaker are free to choose whatever software or green screen or what not to make the talk as fancy as possible.
-  - The recommendation is to use [OBS](https://obsproject.com/download) and have a layout with your slides and   
+  - The recommendation is to use [OBS](https://obsproject.com/download) and have a layout with your slides and a thumbnail of your front camera.
   - If you wish, we can arrange to have a host to be present for this as well (four eyes principal)
   
 - Conference call record - we would set up a call with one of the moderators/hosts, and record the online presentation. 
