@@ -1,9 +1,9 @@
-# Kotlin DevRoom @ FOSDEM 21 - Speakers Recording Guide
-
-> Please note that we're working on the 2022 Guide. We will update this document as soon as we will have further information.
+# Kotlin DevRoom @ FOSDEM 22 - Speakers Recording Guide
 
 Hey all,
-Thanks for taking the time to participate at the Kotlin DevRoom @ FOSDEM 2021.
+Thanks for taking the time to participate at the Kotlin DevRoom @ FOSDEM 2022.
+
+This guide is an customized version of the [FOSDEM Speakers Guide](https://fosdem.org/2022/manuals/program/speaker/) that you can find on the official website. The content is essentially the same, but we've added some Kotlin specific links and contact names.
 
 - [Where is my talk?](#where-is-my-talk)
 - [How long is my talk?](#how-long-is-my-talk)
@@ -22,7 +22,7 @@ Thanks for taking the time to participate at the Kotlin DevRoom @ FOSDEM 2021.
 
 All the talks are listed in the Kotlin DevRoom Page:
 
-[https://fosdem.org/2021/schedule/track/kotlin/](https://fosdem.org/2021/schedule/track/kotlin/)
+[https://fosdem.org/2022/schedule/track/kotlin/](https://fosdem.org/2022/schedule/track/kotlin/)
 
 Please make sure the information on the talks and the speakers you entered are correct.
 
@@ -49,8 +49,8 @@ You're **not** supposed to edit those two fields.
 
 This means:
 - at exactly 11:00 AM the pre-recorded video will start playing
-- at 12:22:30 the stream will switch over to the live feed with the speaker & moderator/host for the **Formal Q&A**
-- at 12:30 the speaker & audience will get a chance to switch to a different channel to continue the discussion(**Informal Q&A**), before the next pre-recorded video will start playing
+- at 11:22:30 the stream will switch over to the live feed with the speaker & moderator/host for the **Formal Q&A**
+- at 11:30 the speaker & audience will get a chance to switch to a different channel to continue the discussion (**Informal Q&A**), before the next pre-recorded video will start playing
 
 ## How to pre-record your talk
 
@@ -62,17 +62,18 @@ There are currently 2 ways to record the talks:
   
 - Conference call record - we would set up a call with one of the moderators/hosts, and record the online presentation. 
 
-Your video should adhere to the following technical requirements provided by FOSDEM: [FOSDEM/video/wiki/FOSDEM-2021-video-email-to-speakers](https://github.com/FOSDEM/video/wiki/FOSDEM-2021-video-email-to-speakers).
+Your video should adhere to the following technical requirements provided by FOSDEM:
 
 ```
 resolution: 1280x720
-frame rate: 25 fps
-video codec: h264 video codec, main profile
-video bitrate: <= 2Mbit/s
+frame rate: 25
+fps video codec: h264 video codec, main profile
+video bitrate: aim for 2Mbit/s
 audio codec: aac audio codec
 audio sample rate: 48 KHz mono
 audio bitrate: 128 Kbit/s
-media container: mp4
+media container: whatever is easiest for you (mp4 suggested)
+maximum size of 2 GB
 ```
 
 This [video tutorial](https://peertube.xwiki.com/videos/watch/c5cf50e3-2277-440a-b339-34874acd00b3) will show you how to setup OBS to **meet those requirements**.
@@ -83,7 +84,7 @@ This [video tutorial](https://peertube.xwiki.com/videos/watch/c5cf50e3-2277-440a
 
 ### Recording deadline
 
-We haven't heard about the official deadline yet, but for the time being **January 15th 2021** will serve as our deadline.
+Please note that the recording deadline is: **January 21st 2022**.
 
 Please make sure that a first version of your talk is uploaded by that time. This will give us time to review and eventually run a second shoot if needed.
 
@@ -100,14 +101,22 @@ You should see the following form in the "Schedule" section:
 ![uploadlink](asset/upload-link.png)
 
 You can click on the **Upload Link URL** to upload your talk.
-Please note that the file limit is **1 GB**.
+Please note that the file limit is **2 GB**.
 
-Once uploaded, the processing will start (could take more than an hour).
+When you upload your video, the system will verify that it meets these requirements listed above.
+If it does not, the video will be transcoded first (but this will take longer, potentially even more than an hour).
+
 When the processing ends, the "presentation length" field gets filled in with the video length (so don't change this yourselves once it's been set) and a **Review link** will appear to let you check the video and make changes. 
+
+**You can find a video tutorial on [how to upload the recording here](https://www.flickr.com/photos/runningwithbulls/50829935862/in/dateposted/)**
 
 ## How to live Q&A
     
-The live Q&A will start with a Matrix chatroom during the talk, with the option to answer questions in the chat of course. And continues live with Jitsi after the talk is finished.
+The live Q&A will start with a Matrix chatroom during the talk, with the option to answer questions in the chat of course while the video plays. 
+
+When the video completes, the live stream will automatically switch over to a live video room with the speaker and speaker host. The speaker host will lead a live Q&A/discussion (the **Formal Q&A**) on video, asking questions that have been upvoted in the text chat or asking questions of their own, clarifying anything that may not have been clear.
+
+Just before the close of the live Q&A, the live stream will end and if any of the audience want to continue the Q&A/discussion, they will be **redirected** to the right place to go do that. You can then continue with your **Informal Q&A** in a more open, informal fashion than during the session itself.
 
 What you will need is:
 - Matrix account & client - for more info see https://matrix.org/blog/2021/01/04/taking-fosdem-online-via-matrix
@@ -115,7 +124,7 @@ What you will need is:
 
 ### Question: is this approach for both Formal & Informal Q&A?
 
-The working assumption is yes, but we will add more details once they are known.
+Yes, we are going to use the same software for both.
 
 ## Glossary
 
@@ -123,12 +132,16 @@ The working assumption is yes, but we will add more details once they are known.
 
 ## Contact us
 
-Make sure you join the [#fosdem](https://kotlinlang.slack.com/archives/CNL8G48LA) on the KotlinLang Slack. You can get an [invite here](https://surveys.jetbrains.com/s3/kotlin-slack-sign-up?_ga=2.95459420.1713471603.1609964350-2073091625.1579276168).
+Make sure you join the [#fosdem](https://kotlinlang.slack.com/archives/CNL8G48LA) on the KotlinLang Slack. You can get an [invite here](https://surveys.jetbrains.com/s3/kotlin-slack-sign-up?_gl=1*1lo0i98*_ga*NTM4NzQ5MjUuMTYzODM3ODEwNA..*_ga_J6T75801PF*MTY0MjA5Njk3NS42LjAuMTY0MjA5Njk3NS4w).
 
 - [Nicola Corti](https://github.com/cortinico)
 - [Martin Bonnin](https://github.com/martinbonnin)
+- [Marco Gomiero](https://github.com/prof18)
+- [Julien Salvi](https://github.com/Oleur)
+- [Holger Steinhauer](https://twitter.com/hfsteinhauer)
 
 ## Acknowledgment
 
-- The Emulator DevRoom where this guide [was forked from](https://github.com/blackbeard334/fosdem21-emulator-devroom-cfp).
+- The Emulator DevRoom 2021 where this guide [was forked from](https://github.com/blackbeard334/fosdem21-emulator-devroom-cfp).
 - The Collab DevRoom for creating the [video tutorial](https://peertube.xwiki.com/videos/watch/c5cf50e3-2277-440a-b339-34874acd00b3) we linked.
+- JetBrains for sponsoring the DevRoom
